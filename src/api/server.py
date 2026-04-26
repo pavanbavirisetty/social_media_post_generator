@@ -19,7 +19,7 @@ from src.utils.config import InstagramAsset, get_settings
 from src.utils.logger import get_logger
 
 
-app = FastAPI(title="Freedom Content Generator", version="0.1.0")
+app = FastAPI(title="social_media_post_generator", version="0.1.0")
 logger = get_logger("WebServer")
 
 base_path = Path(__file__).resolve().parent.parent

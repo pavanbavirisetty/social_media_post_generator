@@ -1,4 +1,4 @@
-# Freedom Assignment
+# social_media_post_generator
 
 ## Prerequisites
 
